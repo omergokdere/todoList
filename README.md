@@ -1,6 +1,8 @@
 # todoList
 
-Todolist application that run on android enviroment.This application allow users to add new task , edit or delete task which already added.
+Todolist application that run on android enviroment.
+
+This application allow users to add new task , edit or delete task which already added.
 
 There are some functional specifications to make application more user friendly which are ;
 
