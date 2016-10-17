@@ -10,7 +10,7 @@ There are some functional specifications to make application more user friendly 
 
 2- Tasks are sorting by date
 
-3- User can prioritize the task on add/edit activity.(This option is available when you prompt out in code.)
+3- User can prioritize the task on add/edit activity.
 
 Screenshots of application are given below;
 
