@@ -1,8 +1,7 @@
 # todoList
 
-1-User can add new task.
+List of task are shown in main screen
 
-2-User can edit task which already added.
+![](https://raw.githubusercontent.com/omergokdere/todoList/master/Screenshots/todo%20list%20main%20screen.PNG)
 
-3-User can delete task.
 
